@@ -10,10 +10,10 @@
 
 ###
 
-<a href="https://github.com/sousasantos/github-readme-stats">
+<a href="https://github.com/sousasantos">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=sousasantos&theme=dracula&show_icons=true&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/sousasantos/convoychat">
+<a href="https://github.com/sousasantos">
   <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sousasantos&layout=compact&theme=dracula" />
 </a>
 
